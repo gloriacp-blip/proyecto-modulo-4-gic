@@ -1,0 +1,60 @@
+@startuml
+title GIC - Diagrama de clases (resumen)
+
+class Cliente {
+  - __nombre: str
+  - __email: str
+  - __telefono: str
+  - __direccion: str
+
+  {property} + nombre: str
+  {property} + email: str
+  {property} + telefono: str
+  {property} + direccion: str
+
+  + tipo(): str
+  + mostrar_info(): str
+  + __str__(): str
+}
+
+class ClienteRegular {
+  + tipo(): str
+  + beneficio_exclusivo(): str
+  + mostrar_info(): str
+}
+
+class ClientePremium {
+  + tipo(): str
+  + beneficio_exclusivo(): str
+  + mostrar_info(): str
+}
+
+class ClienteCorporativo {
+  + tipo(): str
+  + beneficio_exclusivo(): str
+  + mostrar_info(): str
+}
+
+class GestorClientes {
+  - clientes: list
+  - logger
+
+  + crear_cliente(): void
+  + listar_clientes(): void
+  + editar_cliente(): void
+  + eliminar_cliente(): void
+
+  + agregar_cliente(cliente: Cliente): void
+  + buscar_por_email(email: str): Cliente
+  + contar_por_tipo(): dict
+
+  - _crear_cliente_por_tipo(tipo: str, nombre: str, email: str, telefono: str, direccion: str): Cliente
+}
+
+Cliente <|-- ClienteRegular
+Cliente <|-- ClientePremium
+Cliente <|-- ClienteCorporativo
+
+GestorClientes *-- Cliente
+
+@enduml

@@ -1,0 +1,94 @@
+2026-01-21 02:04:32 [ERROR] ERROR importando CSV: Tipo de cliente inválido. Use: regular / premium / corporativo
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 02:05:17 [WARNING] DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 02:05:17 [INFO] IMPORT CSV <- /mnt/data/proj4/Proyecto modulo 4/datos/clientes_entrada.csv (agregados=2)
+2026-01-21 02:05:17 [INFO] EXPORT CSV -> /mnt/data/proj4/Proyecto modulo 4/datos/clientes.csv (registros=2)
+2026-01-21 02:05:17 [INFO] REPORTE generado -> /mnt/data/proj4/Proyecto modulo 4/reportes/resumen.txt
+2026-01-21 02:22:14,983 - INFO - REPORTE generado -> /mnt/data/_fix_mod4/Proyecto modulo 4/reportes/resumen.txt
+2026-01-20 23:24:01,573 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:01,574 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:01,574 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:01,574 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:01,575 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:01,575 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:01,575 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:01,575 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:01,575 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:01,576 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:01,576 - INFO - IMPORT CSV <- C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes_entrada.csv (agregados=2)
+2026-01-20 23:24:34,382 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:34,382 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:34,382 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:34,383 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:34,383 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:34,383 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:34,383 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:34,383 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:34,384 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:34,384 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:34,384 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:24:34,384 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:24:34,384 - INFO - IMPORT CSV <- C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes_entrada.csv (agregados=0)
+2026-01-20 23:25:13,273 - INFO - REPORTE generado -> C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\reportes\resumen.txt
+2026-01-20 23:54:08,448 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:54:08,449 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:54:08,450 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:54:08,450 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:54:08,450 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:54:08,451 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:54:08,451 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:54:08,451 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:54:08,452 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:54:08,453 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:54:08,454 - INFO - IMPORT CSV <- C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes_entrada.csv (agregados=2)
+2026-01-20 23:57:09,038 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:09,039 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:09,039 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:09,040 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:09,040 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:09,040 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:09,041 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:09,041 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:09,041 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:09,042 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:09,042 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:09,043 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:09,043 - INFO - IMPORT CSV <- C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes_entrada.csv (agregados=0)
+2026-01-20 23:57:55,497 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:55,497 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-20 23:57:55,498 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-20 23:57:55,498 - INFO - IMPORT CSV <- C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes_entrada.csv (agregados=2)
+2026-01-21 20:23:59,207 - ERROR - ERROR al crear cliente: Tipo de cliente inválido. Use: regular / premium / corporativo
+2026-01-21 20:25:37,476 - INFO - ALTA cliente email=alsoto@gmail.com tipo=Regular
+2026-01-21 20:26:30,300 - INFO - EXPORT CSV -> C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes.csv (registros=1)
+2026-01-21 20:26:33,628 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 20:26:33,628 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 20:26:33,628 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 20:26:33,628 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 20:26:33,628 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 20:26:33,629 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 20:26:33,629 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 20:26:33,629 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 20:26:33,629 - WARNING - DUPLICADO en import: email=gloriacp@gmail.com
+2026-01-21 20:26:33,630 - WARNING - DUPLICADO en import: email=msilva@gmail.com
+2026-01-21 20:26:33,630 - INFO - IMPORT CSV <- C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes_entrada.csv (agregados=2)
+2026-01-21 20:32:59,825 - INFO - UPDATE cliente email=alsoto@gmail.com tipo=Regular
+2026-01-21 20:34:06,586 - INFO - EXPORT CSV -> C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\datos\clientes.csv (registros=3)
+2026-01-21 20:41:24,972 - INFO - BAJA cliente email=msilva@gmail.com tipo=Regular
+2026-01-21 20:42:00,675 - INFO - BAJA cliente email=alsoto@gmail.com tipo=Regular
+2026-01-21 20:42:42,059 - INFO - REPORTE generado -> C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\reportes\resumen.txt

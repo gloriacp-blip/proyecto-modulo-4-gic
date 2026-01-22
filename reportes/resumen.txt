@@ -1,0 +1,20 @@
+RESUMEN DE CLIENTES
+===================
+
+Total de clientes: 1
+
+LISTADO
+-------
+
+Cliente #1
+Nombre: Gloria Contreras
+Email: gloriacp@gmail.com
+Teléfono: 923612636
+Dirección: Hurtado de Mendoza 8882, La Cisterna
+Tipo: Premium
+Beneficio: Soporte prioritario y 15% de descuento.
+
+
+RESUMEN POR TIPO
+----------------
+Premium: 1
