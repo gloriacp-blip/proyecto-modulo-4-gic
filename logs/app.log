@@ -92,3 +92,5 @@
 2026-01-21 20:41:24,972 - INFO - BAJA cliente email=msilva@gmail.com tipo=Regular
 2026-01-21 20:42:00,675 - INFO - BAJA cliente email=alsoto@gmail.com tipo=Regular
 2026-01-21 20:42:42,059 - INFO - REPORTE generado -> C:\Users\Lenovo\Documents\fsp_2025\Proyecto modulo 4\reportes\resumen.txt
+2026-01-21 21:10:51,799 - ERROR - ERROR al crear cliente: Email inválido.
+2026-01-21 21:12:54,442 - ERROR - ERROR al crear cliente: Email inválido.
